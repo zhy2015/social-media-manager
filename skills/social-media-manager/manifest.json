@@ -1,0 +1,7 @@
+{
+  "name": "social-media-manager",
+  "version": "0.1.0",
+  "description": "Unified social media operations manager.",
+  "entry": "SKILL.md",
+  "tags": ["social", "operations", "routing", "platforms"]
+}
