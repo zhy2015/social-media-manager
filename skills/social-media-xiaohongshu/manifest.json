@@ -1,0 +1,7 @@
+{
+  "name": "social-media-xiaohongshu",
+  "version": "0.1.0",
+  "description": "Platform-specific Xiaohongshu operations skill.",
+  "entry": "SKILL.md",
+  "tags": ["xiaohongshu", "social", "comment", "operations", "publishing", "workflow"]
+}
